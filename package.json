@@ -1,0 +1,19 @@
+{
+  "name": "studynode",
+  "version": "1.0.0",
+  "description": "learn from zero",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdojndx/lldemo.git"
+  },
+  "author": "sdojndx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdojndx/lldemo/issues"
+  },
+  "homepage": "https://github.com/sdojndx/lldemo#readme"
+}
